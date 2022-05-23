@@ -1,3 +1,6 @@
+# Implemented by: Robert Ren
+# Date: 2022-02-12
+
 class Settings:
 	"""A class to store all settings for Alien Invasion"""
 
