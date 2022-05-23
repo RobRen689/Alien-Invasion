@@ -1,6 +1,9 @@
-import pygame.font 
- 
+# Implemented by: Robert Ren
+# Date: 2022-02-12
 
+import pygame.font 
+
+ 
 class Button:
 
 	def __init__(self, ai_game, msg):
