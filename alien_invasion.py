@@ -1,3 +1,6 @@
+# Implemented by: Robert Ren
+# Date: 2022-02-12
+
 import sys 
 from time import sleep
 
